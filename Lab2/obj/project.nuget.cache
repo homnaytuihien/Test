@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yEe50p94fJc=",
+  "success": true,
+  "projectFilePath": "D:\\School\\VTC ACADEMY\\Game Programing Language\\Tasks\\Lab02\\Lab02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.5\\microsoft.dotnet.ilcompiler.9.0.5.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.5\\microsoft.net.illink.tasks.9.0.5.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1-preview.1.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

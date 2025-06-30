@@ -1,0 +1,7 @@
+D:\School\VTC ACADEMY\Game Programing Language\Tasks\Lab01\bin\Debug\Lab01.exe.config
+D:\School\VTC ACADEMY\Game Programing Language\Tasks\Lab01\bin\Debug\Lab01.exe
+D:\School\VTC ACADEMY\Game Programing Language\Tasks\Lab01\bin\Debug\Lab01.pdb
+D:\School\VTC ACADEMY\Game Programing Language\Tasks\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+D:\School\VTC ACADEMY\Game Programing Language\Tasks\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+D:\School\VTC ACADEMY\Game Programing Language\Tasks\Lab01\obj\Debug\Lab01.exe
+D:\School\VTC ACADEMY\Game Programing Language\Tasks\Lab01\obj\Debug\Lab01.pdb

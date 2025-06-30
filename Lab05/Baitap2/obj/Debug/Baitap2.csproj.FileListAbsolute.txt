@@ -1,0 +1,7 @@
+D:\School\VTC ACADEMY\Game Programing Language\Tasks\Lab05\Baitap2\bin\Debug\Baitap2.exe.config
+D:\School\VTC ACADEMY\Game Programing Language\Tasks\Lab05\Baitap2\bin\Debug\Baitap2.exe
+D:\School\VTC ACADEMY\Game Programing Language\Tasks\Lab05\Baitap2\bin\Debug\Baitap2.pdb
+D:\School\VTC ACADEMY\Game Programing Language\Tasks\Lab05\Baitap2\obj\Debug\Baitap2.csproj.AssemblyReference.cache
+D:\School\VTC ACADEMY\Game Programing Language\Tasks\Lab05\Baitap2\obj\Debug\Baitap2.csproj.CoreCompileInputs.cache
+D:\School\VTC ACADEMY\Game Programing Language\Tasks\Lab05\Baitap2\obj\Debug\Baitap2.exe
+D:\School\VTC ACADEMY\Game Programing Language\Tasks\Lab05\Baitap2\obj\Debug\Baitap2.pdb
